@@ -41,7 +41,7 @@ Todos os vídeos são gratuitos e voltados ao público iniciante.
    pip install customtkinter pillow requests
 
 2. Execute o arquivo principal
-   'python pim.py'
+   `python pim.py`
 
 Um arquivo `usuarios.json` será criado automaticamente para armazenar os dados dos usuários.  
 **Observação:** Para acessar a função de relatório, cadastre um usuário com e-mail contendo "@admin" (ex: joao@admin.com).
@@ -60,7 +60,7 @@ Disponível apenas para administradores. Exibe:
 - O sistema segue boas práticas de privacidade e segurança da informação para fins educacionais
 
 ## 📸 Prints
-Imagens da interface e funcionamento estão disponíveis no diretório `/prints` ou dentro do arquivo PDF do projeto (PIM I).
+Imagens da interface e funcionamento estão disponíveis no diretório `/prints` 
 
 ## 👥 Equipe  
 F3620J8 – ANDERSON RAULINO DA SILVA
