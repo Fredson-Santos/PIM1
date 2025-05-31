@@ -180,11 +180,11 @@ class App:
         #listas de conteúdos (para alterar e so mudar os links)
         opcoes = [
             ("Lógica de Programação", "https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=imsDUOFbDJLvo_jO", 
-             "https://videos.openai.com/vg-assets/assets%2Ftask_01jvjc3k7kfjm8g42r1webx0q5%2F1747594700_img_0.webp?st=2025-05-24T01%3A59%3A55Z&se=2025-05-30T02%3A59%3A55Z&sks=b&skt=2025-05-24T01%3A59%3A55Z&ske=2025-05-30T02%3A59%3A55Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=IJ%2BreZAeqfjGQ02JotjNXvyIBjQvf1i6OE3ChlMhgak%3D&az=oaivgprodscus"),
+             "https://raw.githubusercontent.com/Fredson-Santos/images/refs/heads/main/Log%20de%20Programa%C3%A7%C3%A3o.png?token=GHSAT0AAAAAADEH5KKFKPSKNYEPXWYN6OCU2B3HLVA"),
             ("Introdução a Python", "https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&si=7GAyD93_b9P0hlEF", 
-             "https://videos.openai.com/vg-assets/assets%2Ftask_01jvjcds0veveabs9gnqfhr3pa%2F1747595030_img_3.webp?st=2025-05-24T01%3A59%3A55Z&se=2025-05-30T02%3A59%3A55Z&sks=b&skt=2025-05-24T01%3A59%3A55Z&ske=2025-05-30T02%3A59%3A55Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=4DoHtwDRpqCGxE4Vdpzf3p%2FW4XIHZBd1HF6wewvp52k%3D&az=oaivgprodscus"),
+             "https://raw.githubusercontent.com/Fredson-Santos/images/refs/heads/main/Int%20Python.png?token=GHSAT0AAAAAADEH5KKEQ4IS6IKGYYVXP7NA2B3HLEA"),
             ("Segurança da Informação", "https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV", 
-             "https://videos.openai.com/vg-assets/assets%2Ftask_01jvr5mym3ep8sad8cnpax57d4%2F1747789245_img_2.webp?st=2025-05-24T01%3A59%3A55Z&se=2025-05-30T02%3A59%3A55Z&sks=b&skt=2025-05-24T01%3A59%3A55Z&ske=2025-05-30T02%3A59%3A55Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=afmTx6BMBzmkowQe%2Bqh0ZHaT%2BkIE7J8BL6eleXMEkWk%3D&az=oaivgprodscus")
+             "https://raw.githubusercontent.com/Fredson-Santos/images/refs/heads/main/INFO.png?token=GHSAT0AAAAAADEH5KKEOYATXMJTEZSKL7VE2B3HIBA")
         ]
 
         for titulo, link, img_url in opcoes:
