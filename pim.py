@@ -180,11 +180,11 @@ class App:
         #listas de conteúdos (para alterar e so mudar os links)
         opcoes = [
             ("Lógica de Programação", "https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=imsDUOFbDJLvo_jO", 
-             "https://raw.githubusercontent.com/Fredson-Santos/images/refs/heads/main/Log%20de%20Programa%C3%A7%C3%A3o.png?token=GHSAT0AAAAAADEH5KKFKPSKNYEPXWYN6OCU2B3HLVA"),
+             "https://i.pinimg.com/736x/74/bf/3b/74bf3bc76e4500507313e294f7ef68f5.jpg"),
             ("Introdução a Python", "https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&si=7GAyD93_b9P0hlEF", 
-             "https://raw.githubusercontent.com/Fredson-Santos/images/refs/heads/main/Int%20Python.png?token=GHSAT0AAAAAADEH5KKEQ4IS6IKGYYVXP7NA2B3HLEA"),
+             "https://i.pinimg.com/736x/dd/a9/5c/dda95cfbfb90186bb7ecc3f9f93ccb8b.jpg"),
             ("Segurança da Informação", "https://www.youtube.com/playlist?list=PLHz_AreHm4dlaTyjolzCFC6IjLzO8O0XV", 
-             "https://raw.githubusercontent.com/Fredson-Santos/images/refs/heads/main/INFO.png?token=GHSAT0AAAAAADEH5KKEOYATXMJTEZSKL7VE2B3HIBA")
+             "https://i.pinimg.com/736x/bc/36/f0/bc36f0d88ef8658ddecbedcc09c2f509.jpg")
         ]
 
         for titulo, link, img_url in opcoes:
